@@ -3,6 +3,6 @@
 Projeto desenvolvido no evento da Rocktseat #NLW, com o grande prof Mayk Brito!!.
 
 Pata testar o projeto em sua máquina, 
-tem que dar um: <br/>
+tem que dar um: <br/><br/>
 npm run dev
 <h3>
